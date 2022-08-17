@@ -1,0 +1,12 @@
+.adaptive-250{
+    width: 100%; height: 100%; ;max-width: 250px; max-height: 250px;
+}
+.adaptive-500-400{
+    width: 100%; height: 100%; ;max-width: 500px; max-height: 400px;
+}
+.adaptive-400-300{
+    width: 100%; height: 100%; ;max-width: 400px; max-height: 300px;
+}
+.adaptive-300-200{
+    width: 100%; height: 100%; ;max-width: 300px; max-height: 200px;
+}
